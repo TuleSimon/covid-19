@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="dashboard">Dashboard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">NAME: TULE SIMON JOSEPH
+        COUNTRY: NIGERIA
+        STATE: BAYELSA STATE
+        PROFESSION: APPLICATION
+        DEVELOPER PLUs OTHER SKILLS
+        I CREATED THIS APPLICATION AS A LEARNING PROJECT IN PREPARATION FOR MY PROJECT
+        AS A FINAL YEAR STUDENT IN FEDERAL UNIVERSITY OTUOKE AND IT ISN\'T DESIGNED FOR
+        PROFESSIONAL USE, THEREFORE UI AND
+        LAYOUTS MIGHT NOT BE COMPATIBLE WITH ALL SCREEN SIZES
+    </string>
+</resources>
